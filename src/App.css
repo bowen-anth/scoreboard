@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Cursed Timer ULiL;
+  font-family: "Cursed Timer ULiL";
   src: url(./public/CursedTimerUlil-Aznm.ttf);
 }
 
@@ -39,7 +39,7 @@ body {
 
 .add-score-span,
 .subtract-score-span {
-  font-family: Cursed Timer ULiL;
+  font-family: "Cursed Timer ULiL";
   font-size: 1.125rem;
   font-style: normal;
   font-weight: 400;
@@ -63,7 +63,7 @@ body {
   background: black;
   color: #F43F5E;
   text-align: center;
-  font-family: Cursed Timer ULiL;
+  font-family: "Cursed Timer ULiL";
   font-size: 5.625rem;
   font-style: normal;
   font-weight: 400;
@@ -77,7 +77,7 @@ body {
 .digit-span {
   color: #F43F5E;
   text-align: center;
-  font-family: Cursed Timer ULiL;
+  font-family: "Cursed Timer ULiL";
   font-size: 5.625rem;
   font-style: normal;
   font-weight: 400;
